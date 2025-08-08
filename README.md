@@ -1,12 +1,29 @@
-# React + Vite
+# 📰InstaNews
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive news application built with **React.js**, **Bootstrap**, and the **News API** to fetch and display the latest news headlines from around the world.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
+- 📢 **Real-time News** – Fetches latest headlines using [NewsAPI.org](https://newsapi.org/)
+- 🌍 **Multiple Categories** – Browse news by categories like Business, Sports, Technology, Health, Science, and Entertainment
+- 📱 **Responsive Design** – Fully optimized for mobile, tablet, and desktop
+- ⏱ **Live Updates** – Keeps content fresh with API data
+- 📷 **Image Thumbnails** – Engaging UI with news images and brief descriptions
+---
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- **React.js** – Component-based UI development
+- **Bootstrap** – Responsive and modern UI styling
+- **News API** – Fetching latest headlines and news articles
+
+---
+
+## 🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+
+
