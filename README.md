@@ -13,6 +13,7 @@ A simple and responsive news application built with **React.js**, **Bootstrap**,
 ---
 
 ## 📸 Screenshots
+<img width="1890" height="912" alt="image" src="https://github.com/user-attachments/assets/9946ab13-150b-4858-98d3-d4a323273d36" />
 
 ---
 
